@@ -1,0 +1,21 @@
+_id: req_42dd52659ff543f6a0d0d5414b40eb29
+type: Request
+parentId: fld_932049757b74403ca2b60e381118dbbc
+modified: 1686185264124
+created: 1686185257310
+url: http://localhost:3000/api/companies
+name: find all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686100447282
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

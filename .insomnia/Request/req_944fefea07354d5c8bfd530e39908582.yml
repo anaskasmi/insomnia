@@ -1,0 +1,31 @@
+_id: req_944fefea07354d5c8bfd530e39908582
+type: Request
+parentId: fld_ad8fd7febaef49b08ce1d0e498d33293
+modified: 1686666044039
+created: 1686455546763
+url: http://localhost:3000/api/artifacts-results/generate-output
+name: GenerateOutput
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "artifactTemplateId": "135792",
+      "tone": "Serious",
+      "audience": "Government Officialsdd",
+      "subject": "To delete"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100618519.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

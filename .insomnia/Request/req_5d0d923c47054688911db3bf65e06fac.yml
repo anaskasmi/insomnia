@@ -1,0 +1,21 @@
+_id: req_5d0d923c47054688911db3bf65e06fac
+type: Request
+parentId: fld_ad8fd7febaef49b08ce1d0e498d33293
+modified: 1686455570791
+created: 1686454153717
+url: http://localhost:3000/api/artifacts-results
+name: find all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686100447282
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,28 @@
+_id: req_f879085d4eed473e965fbcd18f93246c
+type: Request
+parentId: fld_b8d8ce92a21141c392e0af9bc44217e8
+modified: 1686456096497
+created: 1686456096497
+url: http://localhost:3000/api/artifacts-results/6485468ca3a6f96268f14cd3
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |
+    {
+    	"output": "updtaed info"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100504361.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

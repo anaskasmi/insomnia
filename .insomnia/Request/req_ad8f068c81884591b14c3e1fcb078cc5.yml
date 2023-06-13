@@ -1,0 +1,35 @@
+_id: req_ad8f068c81884591b14c3e1fcb078cc5
+type: Request
+parentId: fld_080a05a194d54a838be015f523b5d79b
+modified: 1686182490948
+created: 1686182062747
+url: http://localhost:3000/api/events
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "title": "Birthday Party",
+      "date": "2023-06-15",
+      "projectId": "abc123",
+      "summary": "Celebrate John's birthday",
+      "summaryInputs": ["cake", "gifts", "decorations"],
+      "recurringNumber": null,
+      "recurringUnit": null,
+      "artefactResultsIds": ["xyz789", "pqr456"]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100675599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

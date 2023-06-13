@@ -1,0 +1,25 @@
+_id: req_da2de9a625fb4682881aa65ede796777
+type: Request
+parentId: fld_a47719f8d635475ab342c5e8c08f9908
+modified: 1686458139895
+created: 1686457945585
+url: http://localhost:3000/api/coupla-points-requests/64854f11a02eb47d6ea318c6
+name: Delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100561440.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

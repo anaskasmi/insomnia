@@ -1,0 +1,28 @@
+_id: req_efb28b0191dc4f47ae435a554af11b5e
+type: Request
+parentId: fld_ad00956031b34423a62a9270aff4eaef
+modified: 1686100423922
+created: 1685659545513
+url: http://localhost:3000/api/projects/add-assignee/64791ab2625701e49cacfec6
+name: Add assignee
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"assigneeId":"new assignee id2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685879360590.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

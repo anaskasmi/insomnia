@@ -1,0 +1,21 @@
+_id: req_23a94fa2ff314e5ab4e5589f7d179efd
+type: Request
+parentId: fld_d89d035b77f94f1890862054b83d3013
+modified: 1686494906438
+created: 1686490348459
+url: http://localhost:3000/api/coupla-points-responses/6485da7831f7d4e1a32703e9
+name: find One
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685989903954.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

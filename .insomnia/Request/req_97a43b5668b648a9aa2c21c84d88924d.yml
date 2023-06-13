@@ -1,0 +1,21 @@
+_id: req_97a43b5668b648a9aa2c21c84d88924d
+type: Request
+parentId: fld_080a05a194d54a838be015f523b5d79b
+modified: 1686499124878
+created: 1686182062743
+url: http://localhost:3000/api/events/by-project/647918ed18906280dc4509e2
+name: find by project
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1686100447282
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

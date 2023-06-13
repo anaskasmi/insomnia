@@ -1,0 +1,31 @@
+_id: req_224c90b6cebb4d468583a4fad16d67fc
+type: Request
+parentId: fld_1abe7fc31c624bbba6461f980be1687f
+modified: 1686187926982
+created: 1686187806043
+url: http://localhost:3000/api/artifacts
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "name": "To Delete",
+      "thumbnailUrl": "https://example.com/thumbnail5.jpg",
+      "queryTemplate": "Design an infographic with the following elements",
+      "recommendedCategoriesIds": ["category4"]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100675599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

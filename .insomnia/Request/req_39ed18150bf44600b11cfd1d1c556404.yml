@@ -1,0 +1,35 @@
+_id: req_39ed18150bf44600b11cfd1d1c556404
+type: Request
+parentId: fld_b8d8ce92a21141c392e0af9bc44217e8
+modified: 1686490308606
+created: 1686456096489
+url: http://localhost:3000/api/artifacts-results
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "artifactTemplateId": "135792",
+      "tone": "Serious",
+      "audience": "Government Officials",
+      "subject": "To delete",
+      "eventId": "90123",
+      "projectId": "rst345",
+      "authorId": "efg234",
+      "output": "Provide concise information for decision-making."
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100675599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

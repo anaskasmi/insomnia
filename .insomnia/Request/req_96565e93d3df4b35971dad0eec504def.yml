@@ -1,0 +1,28 @@
+_id: req_96565e93d3df4b35971dad0eec504def
+type: Request
+parentId: fld_080a05a194d54a838be015f523b5d79b
+modified: 1686499117121
+created: 1686182062755
+url: http://localhost:3000/api/events/64811a9dcb9ae3258453dbbf
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |
+    {
+    	"projectId": "647918ed18906280dc4509e2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100504361.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

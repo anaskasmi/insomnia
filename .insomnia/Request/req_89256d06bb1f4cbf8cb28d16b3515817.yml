@@ -1,0 +1,21 @@
+_id: req_89256d06bb1f4cbf8cb28d16b3515817
+type: Request
+parentId: fld_ad8fd7febaef49b08ce1d0e498d33293
+modified: 1686455988416
+created: 1686454153738
+url: http://localhost:3000/api/artifacts-results/64854671a3a6f96268f14ccc
+name: find One
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685989903954.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

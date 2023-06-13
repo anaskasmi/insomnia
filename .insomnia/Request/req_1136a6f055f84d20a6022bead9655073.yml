@@ -1,0 +1,25 @@
+_id: req_1136a6f055f84d20a6022bead9655073
+type: Request
+parentId: fld_ad00956031b34423a62a9270aff4eaef
+modified: 1686100423270
+created: 1685659065875
+url: http://localhost:3000/api/projects/archive/64791ab2625701e49cacfec6
+name: Archive
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685879360592.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

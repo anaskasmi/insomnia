@@ -1,0 +1,38 @@
+_id: req_07b03ee34f194a1584c441a93ccbcf91
+type: Request
+parentId: fld_e38cae36a68b471db808003f91c94db6
+modified: 1686642213459
+created: 1686100675599
+url: http://localhost:3000/api/users
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "firstName": "New",
+      "lastName": "Wilson",
+      "pictureUrl": "https://example.com/profiles/oliviawilson.jpg",
+      "email": "olivia.wilson@example.com",
+      "companyId": "648125c9bef00b143abe4016",
+      "chatHistoryId": "chat-579",
+      "settingsId": "settings-690",
+      "usageId": "usage-901",
+      "planId": "plan-jkl",
+      "notificationsIds": ["notification-7", "notification-8"],
+      "pinnedProjectsIds": []
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100675599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

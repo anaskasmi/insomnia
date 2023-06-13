@@ -1,0 +1,10 @@
+_id: fld_1abe7fc31c624bbba6461f980be1687f
+type: RequestGroup
+parentId: wrk_a61b047b78e342588f290c2befac4c01
+modified: 1686187806036
+created: 1686187806036
+name: artifacts
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1686100426771.125

@@ -1,0 +1,39 @@
+_id: req_fa65b29be8af456fa4a78614ad6a94b3
+type: Request
+parentId: fld_d89d035b77f94f1890862054b83d3013
+modified: 1686495582642
+created: 1686490348437
+url: http://localhost:3000/api/coupla-points-responses
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "QAPairs": [
+        {
+          "question": "To delete",
+          "answer": "J.K. Rowling"
+        },
+        {
+          "question": "What is the chemical symbol for gold?",
+          "answer": "Au"
+        }
+      ],
+      "couplaPointRequestId": "64854ec6c938dd9592c4bf8b",
+      "responderId": "user10"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100675599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

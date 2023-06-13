@@ -1,0 +1,30 @@
+_id: req_57c4d7a6328b4776bd7765c6ecc024b4
+type: Request
+parentId: fld_932049757b74403ca2b60e381118dbbc
+modified: 1686532907598
+created: 1686185257315
+url: http://localhost:3000/api/companies
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "name": "To Delete",
+      "membersIds": ["456", "789", "123"],
+      "planId": "plan012"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100675599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

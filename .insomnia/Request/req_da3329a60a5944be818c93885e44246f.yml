@@ -1,0 +1,28 @@
+_id: req_da3329a60a5944be818c93885e44246f
+type: Request
+parentId: fld_ad00956031b34423a62a9270aff4eaef
+modified: 1686100424490
+created: 1685659694924
+url: http://localhost:3000/api/projects/remove-assignee/64791ab2625701e49cacfec6
+name: Remove assignee
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"assigneeId":"new assignee id"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685879360589.7812
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

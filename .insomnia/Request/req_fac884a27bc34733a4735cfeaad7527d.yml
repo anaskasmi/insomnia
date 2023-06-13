@@ -1,0 +1,25 @@
+_id: req_fac884a27bc34733a4735cfeaad7527d
+type: Request
+parentId: fld_080a05a194d54a838be015f523b5d79b
+modified: 1686182071600
+created: 1686182062751
+url: http://localhost:3000/api/events/647fdcc23e5b6370c23a5ce3
+name: Delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100561440.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

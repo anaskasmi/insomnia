@@ -1,0 +1,21 @@
+_id: req_f31275d7248b451b81d65501707e4d4f
+type: Request
+parentId: fld_932049757b74403ca2b60e381118dbbc
+modified: 1686532719809
+created: 1686185257329
+url: http://localhost:3000/api/companies/648125c9bef00b143abe4016
+name: find One
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685989903954.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

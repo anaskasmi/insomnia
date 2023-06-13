@@ -1,0 +1,28 @@
+_id: req_385fea8521f74733a335e6898c7689d1
+type: Request
+parentId: fld_a47719f8d635475ab342c5e8c08f9908
+modified: 1686458113960
+created: 1686457945589
+url: http://localhost:3000/api/coupla-points-requests/64854ec6c938dd9592c4bf8b
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |
+    {
+    	"projectId": "def45dd"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100504361.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

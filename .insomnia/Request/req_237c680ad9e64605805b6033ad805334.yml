@@ -1,0 +1,29 @@
+_id: req_237c680ad9e64605805b6033ad805334
+type: Request
+parentId: fld_e38cae36a68b471db808003f91c94db6
+modified: 1686532612436
+created: 1686100761802
+url: http://localhost:3000/api/users/648671e992c5a3f4fbcb5870
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |
+    {
+    		"firstName": "Anas",
+    	"lastName": "KASMI"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100504361.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

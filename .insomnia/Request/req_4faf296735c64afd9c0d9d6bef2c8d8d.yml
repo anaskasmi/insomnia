@@ -1,0 +1,46 @@
+_id: req_4faf296735c64afd9c0d9d6bef2c8d8d
+type: Request
+parentId: fld_ad00956031b34423a62a9270aff4eaef
+modified: 1686533448559
+created: 1685657528781
+url: http://localhost:3000/api/projects
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+
+    "title": "Enhance employee training",
+
+    "description": "An initiative to improve employee training and development programs",
+
+    "endDate": "2023-11-30",
+
+    "tagline": "Investing in our workforce for long-term success",
+
+    "summaryInputs": ["Conduct training needs assessments", "Develop personalized training plans", "Leverage e-learning platforms"],
+
+    "summary": "The Employee Training Enhancement initiative focuses on investing in our workforce to foster long-term success. Through comprehensive training needs assessments, we will identify skill gaps and training requirements for each department. Based on these assessments, personalized training plans will be developed and delivered using a combination of in-person sessions and e-learning platforms. By enhancing employee training and development programs, we aim to boost employee engagement, productivity, and overall organizational performance.",
+
+    "isDraft": false,
+
+    "categoryId": "012",
+
+    "assigneesIds": []
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685879360601.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

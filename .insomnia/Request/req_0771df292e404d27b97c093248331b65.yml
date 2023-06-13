@@ -1,0 +1,28 @@
+_id: req_0771df292e404d27b97c093248331b65
+type: Request
+parentId: fld_1abe7fc31c624bbba6461f980be1687f
+modified: 1686187917433
+created: 1686187806053
+url: http://localhost:3000/api/artifacts/64812f3a642217aead5d5d81
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: >
+    {
+    	"queryTemplate": "Given the following information, generate an explainer video script"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686100504361.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
